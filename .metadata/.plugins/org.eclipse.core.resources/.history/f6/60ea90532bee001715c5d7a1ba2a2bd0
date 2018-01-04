@@ -1,0 +1,21 @@
+package com.alibaba.dubbo.demo.provider;
+
+import java.io.Serializable;
+import java.util.HashMap;
+
+
+public class TestData {
+	public String name="donghui";
+	public int age=10000000;
+	//public String language="chinese";
+	public Integer money=999999;
+	public HashMap<String,String>map=new HashMap<String,String>();
+	
+	//对map中增加数据 
+		public void inputData() {
+			map.put("name","donghui");
+			map.put("age","27");
+			
+		}
+		
+}

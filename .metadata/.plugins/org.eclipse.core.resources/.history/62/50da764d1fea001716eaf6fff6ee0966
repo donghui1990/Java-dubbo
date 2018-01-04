@@ -1,0 +1,8 @@
+package com.dubbo.demo.consumer;
+
+public class ReserveData {
+	public String name;
+	public Integer age;
+	public Integer money;
+
+}

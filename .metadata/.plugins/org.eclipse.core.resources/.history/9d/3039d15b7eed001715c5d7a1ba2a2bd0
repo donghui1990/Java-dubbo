@@ -1,0 +1,9 @@
+package com.alibaba.dubbo.demo.provider;
+
+public class TestData {
+	public String name="donghui";
+	public int age=10000000;
+	//public String language="chinese";
+	public Integer money=999999;
+	
+}

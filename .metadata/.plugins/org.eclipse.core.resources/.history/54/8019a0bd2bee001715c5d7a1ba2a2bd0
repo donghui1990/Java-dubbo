@@ -1,0 +1,15 @@
+package com.dubbo.demo.consumer;
+
+import java.util.HashMap;
+
+public class ReceiveData {
+    public String name;
+	public int age;
+	public Integer money;
+	public HashMap<String,String>map=new HashMap<String,String>(){
+		{
+		map.put("name","");
+		map.put("age","");
+		}
+	};
+}

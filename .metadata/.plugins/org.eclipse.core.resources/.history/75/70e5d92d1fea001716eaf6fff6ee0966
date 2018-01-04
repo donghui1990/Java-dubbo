@@ -1,0 +1,5 @@
+package com.dubbo.demo.consumer;
+
+public class ReserveData {
+
+}

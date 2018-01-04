@@ -1,0 +1,14 @@
+package com.alibaba.dubbo.demo.provider;
+
+public class Application {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ClassPathXmlApplicationContext context=new ClassPathXmlApplicationContext(new String[]{"provider.xml"});
+       
+		context.start();
+       
+        System.in.read();//按任意键退出 
+	}
+
+}

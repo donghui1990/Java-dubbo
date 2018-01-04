@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Application (1),org.eclipse.launchbar.core.descriptorType.default\:dubbo-demo-consumer,org.eclipse.launchbar.core.descriptorType.default\:Consumer,org.eclipse.launchbar.core.descriptorType.default\:Application
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Application\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Application\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Application/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Application/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Consumer/activeLaunchMode=run

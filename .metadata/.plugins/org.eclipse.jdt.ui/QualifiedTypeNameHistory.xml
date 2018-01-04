@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="dubbo_demo_api.DemoService"/>
+<fullyQualifiedTypeName name="com.esotericsoftware.kryo.io.Output"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="com.esotericsoftware.kryo.Kryo"/>
+<fullyQualifiedTypeName name="com.esotericsoftware.kryo.io.Input"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="com.alibaba.com.caucho.hessian.io.CollectionSerializer"/>
+<fullyQualifiedTypeName name="com.alibaba.com.caucho.hessian.io.JavaSerializer"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.esotericsoftware.kryo.serializers.CollectionSerializer"/>
+<fullyQualifiedTypeName name="com.esotericsoftware.kryo.serializers.JavaSerializer"/>
+<fullyQualifiedTypeName name="com.dubbo.demo.api.DemoService"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>

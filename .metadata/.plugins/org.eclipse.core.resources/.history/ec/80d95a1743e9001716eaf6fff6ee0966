@@ -1,0 +1,5 @@
+package dubbo_demo_api;
+
+public interface DemoService {
+
+}

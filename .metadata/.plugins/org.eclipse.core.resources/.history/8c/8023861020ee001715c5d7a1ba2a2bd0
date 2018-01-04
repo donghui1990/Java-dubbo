@@ -1,0 +1,28 @@
+package com.alibaba.dubbo.demo.provider;
+
+import java.io.Serializable;
+
+import com.dubbo.demo.api.DemoService;
+
+public class KryoTest2 implements DemoService,Serializable{
+
+	public String sayHello(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void SerializationTest() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	//需要增加第二种序列化的方式
+	
+	public Object test2() {
+		TestData data=new TestData();
+		return data;
+		
+	}
+	
+
+}

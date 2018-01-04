@@ -1,0 +1,10 @@
+package com.alibaba.dubbo.demo.provider;
+import com.esotericsoftware.kryo.Kryo;
+//这里主要记录我所需要序列化的数据：将一个类序列化到文件，然后consumer反序列话对象 
+
+public class KryoProvider {
+	//首先声明 kryo对象 
+	Kryo kryo=new Kryo();
+	
+
+}

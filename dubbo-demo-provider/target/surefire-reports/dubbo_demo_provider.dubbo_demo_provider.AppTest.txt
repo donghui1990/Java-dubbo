@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dubbo_demo_provider.dubbo_demo_provider.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.038 sec

@@ -1,0 +1,5 @@
+
+
+
+<bean id="DemoService" class="com.alibaba.dubbo.demo.provider"/>
+<dubbo:service interface="dubbo_demo_api.DemoService" ref="DemoService"/>

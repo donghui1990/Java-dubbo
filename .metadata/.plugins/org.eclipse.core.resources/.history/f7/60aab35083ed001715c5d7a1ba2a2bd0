@@ -1,0 +1,20 @@
+package com.alibaba.dubbo.demo.provider;
+
+import com.dubbo.demo.api.DemoService;
+
+public class KryoTest2 implements DemoService {
+
+	public String sayHello(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void SerializationTest() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	//需要增加默认的方式 
+	
+
+}

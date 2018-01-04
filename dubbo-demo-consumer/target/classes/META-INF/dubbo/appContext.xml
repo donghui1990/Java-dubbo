@@ -1,0 +1,5 @@
+context:component-scan base-package="dubbo_demo_consumer">
+</context:component-scan>
+
+<import resource="classpath*:spring/dubbo-*.xml"/>
+<import resource="classpath*:spring/springmvc-servlet.xml"/>

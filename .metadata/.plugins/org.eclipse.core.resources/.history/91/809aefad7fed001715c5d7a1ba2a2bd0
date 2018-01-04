@@ -1,0 +1,15 @@
+package com.alibaba.dubbo.demo.provider;
+
+import java.util.HashMap;
+
+public class TestData {
+	public String name="donghui";
+	//public int age=10000000;
+	//public String language="chinese";
+	//public Integer money=999999;
+	public HashMap<String,String>map=new HashMap<String,String>(){
+		map.put("name","donghui");
+		map.put("age","100");
+	};
+	
+}
